@@ -1,0 +1,2 @@
+*.log #ignore log files
+*.sh  #ignore .sh files, we'll use .sample.sh as our codebase and copy that as the script to run
